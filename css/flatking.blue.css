@@ -55,6 +55,7 @@ body {
 }
 .light-typo {
 	color: #fff;
+	background:transparent;
 }
 #latest {
 	background-color: #F2F2F2;
